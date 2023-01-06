@@ -33,3 +33,11 @@ Name         | Description
 ## Get help
 
 ## Get in touch
+
+* [Twitter](https://twitter.com/graalvm)
+* [Slack](https://www.graalvm.org/slack-invitation/)
+* [Mastodon](https://mastodon.online/@graalvm)
+* [Medium](https://medium.com/graalvm)
+* [LinkedIn](https://www.linkedin.com/company/graalvm/)
+* [YouTube](https://www.youtube.com/GraalVM)
+
