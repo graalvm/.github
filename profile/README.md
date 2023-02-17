@@ -17,6 +17,8 @@ It offers two ways to run Java applications: on the HotSpot JVM with Graal just-
 Name         | Description
 ------------ | -------------
 [Graal](https://github.com/oracle/graal) | The core repository
+[GraalVM CE Builds](https://github.com/graalvm/graalvm-ce-builds) | GraalVM CE builds
+[GraalVM CE Dev Vuilds](https://github.com/oracle/graal) | GraalVM CE Developer builds
 [FastR](https://github.com/oracle/fastr) | Implementation of the R language
 [GraalJS](https://github.com/oracle/graaljs) | Implementation of JavaScript and Node.js
 [GraalPy](https://github.com/oracle/graalpython) | Implementation of the Python language
@@ -24,11 +26,16 @@ Name         | Description
 [Native Build Tools](https://github.com/graalvm/native-build-tools) | Build plugins for GraalVM Native Image
 [Graalvm Reachability Metadata](https://github.com/oracle/graalvm-reachability-metadata) | Reachability metadata for open-source libraries
 [GraalVM Demos](https://github.com/graalvm/graalvm-demos) | Several example applications illustrating GraalVM capabilities
-[SimpleLanguage](https://github.com/graalvm/simplelanguage) | A simple example language built with the Truffle framework
-[SimpleTool](https://github.com/graalvm/simpletool) | A simple example tool built with the Truffle framework
-
+[Simple Language](https://github.com/graalvm/simplelanguage) | A simple example language built with the Truffle framework
+[Simple Tool](https://github.com/graalvm/simpletool) | A simple example tool built with the Truffle framework
 
 ## Contribute
+
+We welcome community contributions! Every GraalVM repo contains contributing guidelines.
+A few addiotional resources:
+* [Learn how to become a contributor](https://www.graalvm.org/community/contributors/)
+* [Undestanding how to build GraalVM from source](https://www.youtube.com/watch?v=3Gh0cz3vjG8)
+
 
 ## Get help
 
