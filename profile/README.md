@@ -6,9 +6,11 @@ GraalVM is a high-performance JDK designed to accelerate Java application perfor
 It offers two ways to run Java applications: on the HotSpot JVM with Graal just-in-time compiler or as an ahead-of-time compiled native executable. Besides Java, it also provides runtimes for JavaScript, Ruby, Python, and a number of other popular languages with polyglot capabilities.
 
 ## Get started
+
 * [Website](https://www.graalvm.org/)
 * [Documentation](https://www.graalvm.org/latest/docs/)
 * [Downloads](https://www.graalvm.org/downloads/)
+* [Docker images](https://github.com/orgs/graalvm/packages)
 * [Demos](https://github.com/graalvm/graalvm-demos)
 
 
@@ -18,26 +20,31 @@ Name         | Description
 ------------ | -------------
 [Graal](https://github.com/oracle/graal) | The core repository
 [GraalVM CE Builds](https://github.com/graalvm/graalvm-ce-builds) | GraalVM CE builds
-[GraalVM CE Dev Vuilds](https://github.com/oracle/graal) | GraalVM CE Developer builds
+[GraalVM CE Dev Builds](https://github.com/oracle/graal) | GraalVM CE Developer builds
+[Native Build Tools](https://github.com/graalvm/native-build-tools) | Build plugins for GraalVM Native Image
+[Graalvm Reachability Metadata](https://github.com/oracle/graalvm-reachability-metadata) | Reachability metadata for open-source libraries
 [FastR](https://github.com/oracle/fastr) | Implementation of the R language
 [GraalJS](https://github.com/oracle/graaljs) | Implementation of JavaScript and Node.js
 [GraalPy](https://github.com/oracle/graalpython) | Implementation of the Python language
 [TruffleRuby](https://github.com/oracle/truffleruby) | Implementation of the Ruby language
-[Native Build Tools](https://github.com/graalvm/native-build-tools) | Build plugins for GraalVM Native Image
-[Graalvm Reachability Metadata](https://github.com/oracle/graalvm-reachability-metadata) | Reachability metadata for open-source libraries
+[VS Code Extensions](https://github.com/graalvm/vscode-extensions) | GraalVM's extensions for VS Code
 [GraalVM Demos](https://github.com/graalvm/graalvm-demos) | Several example applications illustrating GraalVM capabilities
 [Simple Language](https://github.com/graalvm/simplelanguage) | A simple example language built with the Truffle framework
 [Simple Tool](https://github.com/graalvm/simpletool) | A simple example tool built with the Truffle framework
 
 ## Contribute
 
-We welcome community contributions! Every GraalVM repo contains contributing guidelines.
-A few addiotional resources:
+We welcome community contributions! You can find contributing guidelines in each GraalVM repository.
+A few additional resources:
 * [Learn how to become a contributor](https://www.graalvm.org/community/contributors/)
-* [Undestanding how to build GraalVM from source](https://www.youtube.com/watch?v=3Gh0cz3vjG8)
-
+* [Understanding how to build GraalVM from source](https://www.youtube.com/watch?v=3Gh0cz3vjG8)
 
 ## Get help
+
+* For bug reports and feature requests, please create a GitHub issue
+* For general questions and discussions, start a GitHub discussion
+* Additionally, you can send an email to [graalvm-users@oss.oracle.com](mailto:graalvm-users@oss.oracle.com) or join conversation on [GraalVM's Slack](https://www.graalvm.org/slack-invitation/)
+* To report security vulnerabilities, please send an email to [secalert_us@oracle.com](mailto:secalert_us@oracle.com) 
 
 ## Get in touch
 
