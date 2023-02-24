@@ -20,7 +20,7 @@ Name         | Description
 ------------ | -------------
 [Graal](https://github.com/oracle/graal) | The core repository
 [GraalVM CE Builds](https://github.com/graalvm/graalvm-ce-builds) | GraalVM CE builds
-[GraalVM CE Dev Builds](https://github.com/oracle/graal) | GraalVM CE Developer builds
+[`graalvm/graalvm-ce-dev-builds`](https://github.com/graalvm/graalvm-ce-dev-builds) | GraalVM CE Developer builds
 [Native Build Tools](https://github.com/graalvm/native-build-tools) | Build plugins for GraalVM Native Image
 [GraalVM Reachability Metadata](https://github.com/oracle/graalvm-reachability-metadata) | Reachability metadata for open-source libraries
 [Setup GraalVM](https://github.com/oracle/fastr) | GitHub Action for GraalVM
