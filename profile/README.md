@@ -44,7 +44,7 @@ A few additional resources:
 
 * For bug reports and feature requests, please create a GitHub issue
 * For general questions and discussions, [start a GitHub discussion](https://github.com/oracle/graal/discussions/new/choose)
-* Additionally, you can send an email to [graalvm-users@oss.oracle.com](mailto:graalvm-users@oss.oracle.com) or join the conversation on [GraalVM's Slack](https://www.graalvm.org/slack-invitation/)
+* Additionally, you can join the conversation on [GraalVM's Slack](https://www.graalvm.org/slack-invitation/) or send an email to [graalvm-users@oss.oracle.com](mailto:graalvm-users@oss.oracle.com)
 * To report security vulnerabilities, please send an email to [secalert_us@oracle.com](mailto:secalert_us@oracle.com) 
 
 ## Get in Touch
