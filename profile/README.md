@@ -18,20 +18,20 @@ It provides the Graal compiler, which can be used as a just-in-time compiler to 
 
 Name         | Description
 ------------ | -------------
-[Graal](https://github.com/oracle/graal) | The core repository
-[GraalVM CE Builds](https://github.com/graalvm/graalvm-ce-builds) | GraalVM CE builds
+[`oracle/graal`](https://github.com/oracle/graal) | The GraalVM core repository
+[`oracle/graalpython`](https://github.com/oracle/graalpython) | Implementation of the Python language
+[`oracle/truffleruby`](https://github.com/oracle/truffleruby) | Implementation of the Ruby language
+[`oracle/graaljs`](https://github.com/oracle/graaljs) | Implementation of JavaScript and Node.js
+[`oracle/fastr`](https://github.com/oracle/fastr) | Implementation of the R language
+[`oracle/graalvm-reachability-metadata`](https://github.com/oracle/graalvm-reachability-metadata) | Reachability metadata for open-source libraries
+[`graalvm/graalvm-ce-builds`](https://github.com/graalvm/graalvm-ce-builds) | GraalVM CE builds
 [`graalvm/graalvm-ce-dev-builds`](https://github.com/graalvm/graalvm-ce-dev-builds) | GraalVM CE Developer builds
-[Native Build Tools](https://github.com/graalvm/native-build-tools) | Build plugins for GraalVM Native Image
-[GraalVM Reachability Metadata](https://github.com/oracle/graalvm-reachability-metadata) | Reachability metadata for open-source libraries
-[Setup GraalVM](https://github.com/oracle/fastr) | GitHub Action for GraalVM
-[GraalVM JDK Downloader](https://github.com/graalvm/graalvm-jdk-downloader) | GraalVM JDK Downloader
-[FastR](https://github.com/oracle/fastr) | Implementation of the R language
-[GraalJS](https://github.com/oracle/graaljs) | Implementation of JavaScript and Node.js
-[GraalPy](https://github.com/oracle/graalpython) | Implementation of the Python language
-[TruffleRuby](https://github.com/oracle/truffleruby) | Implementation of the Ruby language
-[GraalVM Demos](https://github.com/graalvm/graalvm-demos) | Several example applications illustrating GraalVM's capabilities
-[Simple Language](https://github.com/graalvm/simplelanguage) | A simple example language built with the Truffle framework
-[Simple Tool](https://github.com/graalvm/simpletool) | A simple example tool built with the Truffle framework
+[`graalvm/native-build-tools`](https://github.com/graalvm/native-build-tools) | Build plugins for GraalVM Native Image
+[`graalvm/setup-graalvm`](https://github.com/graalvm/setup-graalvm) | GitHub Action for GraalVM
+[`graalvm/graalvm-jdk-downloader`](https://github.com/graalvm/graalvm-jdk-downloader) | GraalVM JDK Downloader
+[`graalvm/graalvm-demos`](https://github.com/graalvm/graalvm-demos) | Several example applications illustrating GraalVM's capabilities
+[`graalvm/simplelanguage`](https://github.com/graalvm/simplelanguage) | A simple example language built with the Truffle framework
+[`graalvm/simpletool`](https://github.com/graalvm/simpletool) | A simple example tool built with the Truffle framework
 
 ## Contribute
 
