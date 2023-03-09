@@ -1,6 +1,6 @@
 ## GraalVM on GitHub
 
-![GraalVM banner](../github_banner_1280x_wider-min.png "GraalVM on GitHub")
+![GraalVM banner](https://raw.githubusercontent.com/graalvm/.github/main/profile/graalvm-github.png "GraalVM on GitHub")
 
 GraalVM is a high-performance JDK designed to accelerate Java application performance while consuming fewer resources. 
 It provides the Graal compiler, which can be used as a just-in-time compiler to run Java applications on the HotSpot JVM or to ahead-of-time compile them into native executables. Besides Java, it also provides runtimes for JavaScript, Ruby, Python,  and a several other popular languages with polyglot capabilities.
