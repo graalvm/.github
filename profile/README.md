@@ -22,7 +22,7 @@ Name         | Description
 [`graalvm/graalvm-ce-builds`](https://github.com/graalvm/graalvm-ce-builds) | GraalVM CE builds
 [`graalvm/graalvm-ce-dev-builds`](https://github.com/graalvm/graalvm-ce-dev-builds) | GraalVM CE Developer builds
 [`graalvm/graalvm-demos`](https://github.com/graalvm/graalvm-demos) | Demos
-[`github.com/graalvm/workshops`](https://github.com/graalvm/workshops) | Workshops and tutorials
+[`graalvm/workshops`](https://github.com/graalvm/workshops) | Workshops and tutorials
 [`graalvm/native-build-tools`](https://github.com/graalvm/native-build-tools) | Build plugins for GraalVM Native Image
 [`oracle/graalvm-reachability-metadata`](https://github.com/oracle/graalvm-reachability-metadata) | Reachability metadata for open-source libraries
 [`graalvm/setup-graalvm`](https://github.com/graalvm/setup-graalvm) | GitHub Action for GraalVM
