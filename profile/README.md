@@ -19,6 +19,7 @@ It provides the Graal compiler, which can be used as a just-in-time compiler to 
 Name         | Description
 ------------ | -------------
 [`oracle/graal`](https://github.com/oracle/graal) | The GraalVM core repository
+[`oracle-graalvm-ea-builds`](https://github.com/graalvm/oracle-graalvm-ea-builds) | Oracle GraalVM early access builds
 [`graalvm/graalvm-ce-builds`](https://github.com/graalvm/graalvm-ce-builds) | GraalVM CE builds
 [`graalvm/graalvm-ce-dev-builds`](https://github.com/graalvm/graalvm-ce-dev-builds) | GraalVM CE Developer builds
 [`graalvm/graalvm-demos`](https://github.com/graalvm/graalvm-demos) | Demos
