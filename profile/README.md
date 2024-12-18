@@ -23,7 +23,8 @@ Name         | Description
 [`graal-languages-ea-builds`](https://github.com/graalvm/graal-languages-ea-builds) | Early access builds of Oracle GraalVM Languages
 [`graalvm/graalvm-ce-builds`](https://github.com/graalvm/graalvm-ce-builds) | GraalVM CE builds
 [`graalvm/graalvm-ce-dev-builds`](https://github.com/graalvm/graalvm-ce-dev-builds) | GraalVM CE Developer builds
-[`graalvm/graalvm-demos`](https://github.com/graalvm/graalvm-demos) | Demos
+[`graalvm/graalvm-demos`](https://github.com/graalvm/graalvm-demos) | Native Image & compiler demos
+[`graalvm/graal-languages-demos`](https://github.com/graalvm/graal-languages-demos) | Graal Languages demos and guides
 [`graalvm/workshops`](https://github.com/graalvm/workshops) | Workshops and tutorials
 [`graalvm/native-build-tools`](https://github.com/graalvm/native-build-tools) | Build plugins for GraalVM Native Image
 [`oracle/graalvm-reachability-metadata`](https://github.com/oracle/graalvm-reachability-metadata) | Reachability metadata for open-source libraries
@@ -32,7 +33,6 @@ Name         | Description
 [`oracle/graalpython`](https://github.com/oracle/graalpython) | Implementation of the Python language
 [`oracle/truffleruby`](https://github.com/oracle/truffleruby) | Implementation of the Ruby language
 [`oracle/graaljs`](https://github.com/oracle/graaljs) | Implementation of JavaScript and Node.js
-[`oracle/fastr`](https://github.com/oracle/fastr) | Implementation of the R language
 [`graalvm/simplelanguage`](https://github.com/graalvm/simplelanguage) | A simple example language built with the Truffle framework
 [`graalvm/simpletool`](https://github.com/graalvm/simpletool) | A simple example tool built with the Truffle framework
 
