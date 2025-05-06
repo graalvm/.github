@@ -41,7 +41,7 @@ Name         | Description
 ------------ | -------------
 [`graalvm-demos`](https://github.com/graalvm/graalvm-demos) | Example applications highlighting key features and best practices for working with GraalVM technologies.
 [`graalvm/workshops`](https://github.com/graalvm/workshops) | Workshops and tutorials to help you learn and apply GraalVM tools and capabilities.
-[`graal-languages-demos](https://github.com/graalvm/graal-languages-demos) | Demo applications and guides for GraalJS, GraalPy, GraalWasm, and other Graal Languages.
+[`graal-languages-demos`](https://github.com/graalvm/graal-languages-demos) | Demo applications and guides for GraalJS, GraalPy, GraalWasm, and other Graal Languages.
 
 ## Contribute
 
