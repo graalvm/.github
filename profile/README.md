@@ -23,9 +23,6 @@ Name         | Description
 [`graal-languages-ea-builds`](https://github.com/graalvm/graal-languages-ea-builds) | Early access builds of Oracle GraalVM Languages
 [`graalvm/graalvm-ce-builds`](https://github.com/graalvm/graalvm-ce-builds) | GraalVM CE builds
 [`graalvm/graalvm-ce-dev-builds`](https://github.com/graalvm/graalvm-ce-dev-builds) | GraalVM CE Developer builds
-[`graalvm/graalvm-demos`](https://github.com/graalvm/graalvm-demos) | Native Image & compiler demos
-[`graalvm/graal-languages-demos`](https://github.com/graalvm/graal-languages-demos) | Graal Languages demos and guides
-[`graalvm/workshops`](https://github.com/graalvm/workshops) | Workshops and tutorials
 [`graalvm/native-build-tools`](https://github.com/graalvm/native-build-tools) | Build plugins for GraalVM Native Image
 [`oracle/graalvm-reachability-metadata`](https://github.com/oracle/graalvm-reachability-metadata) | Reachability metadata for open-source libraries
 [`graalvm/setup-graalvm`](https://github.com/graalvm/setup-graalvm) | GitHub Action for GraalVM
@@ -35,6 +32,16 @@ Name         | Description
 [`oracle/graaljs`](https://github.com/oracle/graaljs) | Implementation of JavaScript and Node.js
 [`graalvm/simplelanguage`](https://github.com/graalvm/simplelanguage) | A simple example language built with the Truffle framework
 [`graalvm/simpletool`](https://github.com/graalvm/simpletool) | A simple example tool built with the Truffle framework
+
+## Examples and Tutorials
+
+Start building with GraalVM using practical examples, deep-dive workshops, and language-specific demos.
+
+Name         | Description
+------------ | -------------
+[`graalvm-demos`](https://github.com/graalvm/graalvm-demos) | Example applications highlighting key features and best practices for working with GraalVM technologies.
+[`graalvm/workshops`](https://github.com/graalvm/workshops) | Workshops and tutorials to help you learn and apply GraalVM tools and capabilities.
+[`graal-languages-demos](https://github.com/graalvm/graal-languages-demos) | Demo applications and guides for GraalJS, GraalPy, GraalWasm, and other Graal Languages.
 
 ## Contribute
 
